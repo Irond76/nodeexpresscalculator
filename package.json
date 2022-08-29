@@ -1,0 +1,16 @@
+{
+  "name": "nodeexpresscalculator",
+  "version": "1.0.0",
+  "description": "node express calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon calculator.js"
+  },
+  "author": "dale bendixen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
